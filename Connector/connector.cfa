@@ -1,1 +1,2 @@
 #connect file.API -> any.*;
+#connect file.Texture -> any.*;
