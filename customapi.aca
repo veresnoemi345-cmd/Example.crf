@@ -1,0 +1,3 @@
+pack 'texture'
+{
+add 'texture' as ru 2D(textures.ttt.png)
